@@ -1,0 +1,10 @@
+/vendor/
+/nbproject/private/
+composer.lock
+composer.json
+.idea
+.ftpquota
+.htaccess
+.env
+
+

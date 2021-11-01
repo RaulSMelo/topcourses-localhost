@@ -1,0 +1,490 @@
+.body-login {
+  background: #000 !important;
+}
+
+.card-login-main {
+  border: 1px solid #ff8c00;
+}
+
+.card-login {
+  margin-top: 70px;
+  padding: 18px;
+  max-width: 30rem;
+}
+
+.card-header-login {
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 600 !important;
+  margin-top: 10px;
+  border-bottom: 0;
+}
+
+.input-group-prepend span {
+  width: 50px;
+  background-color: #ff8c00;
+  color: #fff;
+  border: 0 !important;
+}
+
+input:focus {
+  outline: 0 !important;
+  box-shadow: 0 0 0 0 !important;
+}
+
+.login_btn {
+  width: 130px;
+}
+
+.login_btn:hover {
+  color: #fff;
+  background-color: #28a745;
+}
+
+.btn-outline-danger-login {
+  color: #fff;
+  font-size: 18px;
+  background-color: transparent;
+  background-image: none;
+  border-color: #ff8c00;
+}
+
+.form-control-login {
+  display: block;
+  width: 100%;
+  height: calc(2.25rem + 2px);
+  padding: 0.375rem 0.75rem;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #28a745;
+  background-color: transparent;
+  background-clip: padding-box;
+  border: 1px solid #ff8c00;
+  border-radius: 0;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.input-group-text {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 0.375rem 0.75rem;
+  margin-bottom: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.6;
+  color: #495057;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #e9ecef;
+  border: 1px solid #ced4da;
+  border-radius: 0;
+}
+.main-body {
+  background-color: #808080;
+}
+
+.border-bottom-nav {
+  border-bottom: 0.375rem solid #ff8c00 !important;
+}
+
+.header {
+  margin: 0px;
+}
+h2 {
+  font-family: inherit;
+  font-weight: 350 !important;
+  color: #fff;
+}
+h3 {
+  font-family: inherit;
+  font-weight: 350 !important;
+  color: #fff !important;
+}
+h5 {
+  font-family: inherit;
+  font-weight: 400 !important;
+  color: #ff8c00;
+}
+.input-title {
+  margin: 0px 3px;
+  padding: 0px;
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: inherit;
+}
+
+.main-card {
+  border: 1px solid #ff8c00;
+}
+
+.card-body-form {
+  background-color: #c0c0c0;
+}
+
+.border-card-radio-button {
+  border: 1px solid #c0c0c0 !important;
+}
+
+.bg-components-form {
+  background-color: #d3d3d3;
+}
+
+table thead tr th {
+  font-family: inherit !important;
+  color: #fff !important;
+  font-weight: 450 !important;
+  font-size: 1.125rem !important;
+  letter-spacing: 1px !important;
+}
+
+/**CORES**/
+
+.text-orange {
+  color: #ff8c00;
+}
+
+.bg-orange {
+  background-color: #ff8c00;
+}
+
+.bg-orange:hover {
+  background-color: #ff4500;
+}
+
+.bg-darkgreen {
+  background-color: #03412b;
+}
+
+.bg-darkmagenta {
+  background-color: #8b008b;
+}
+
+.bg-darkcyan {
+  background-color: #008b8b;
+}
+
+.text-darkcyan {
+  color: #008b8b;
+}
+
+.bg-indigo {
+  background-color: #4b0082;
+}
+
+.bg-crimson {
+  background-color: #dc143c;
+}
+
+.bg-darkorange {
+  background-color: #dc3c14;
+}
+
+.bg-label-checkbox {
+  background-color: #161614;
+}
+
+/*******************/
+
+table tbody tr .celula-anotacao {
+  position: relative !important;
+  width: 2rem !important;
+  height: 3.125rem !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  box-sizing: border-box !important;
+}
+
+table tbody tr td ul {
+  position: relative !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+table tbody tr td ul .nav-item {
+  height: 100% !important;
+  width: 100% !important;
+}
+
+table tbody tr td ul li .link {
+  padding: 28% 20% !important;
+  height: 100% !important;
+  color: #fff !important;
+}
+
+table tbody tr td ul li .opcao {
+  min-width: 100% !important;
+  height: 3.125rem !important;
+  padding: 0px !important;
+  margin: 0px !important;
+  transform: translate3d(0.3px, 48px, 0px) !important;
+  box-sizing: border-box !important;
+}
+
+table tbody tr td ul li .opcao a {
+  text-align: center;
+  color: #fff;
+  padding: 0.25rem 0.25rem !important;
+}
+
+table tbody tr td ul li .opcao .bg-apagar-anotacao {
+  background-color: #861a1a;
+  color: #fff;
+}
+
+table tbody tr td ul li .opcao .bg-apagar-anotacao:hover {
+  background-color: #640101;
+  color: #b5f603;
+}
+
+.line-nowrap {
+  white-space: nowrap;
+}
+
+.input-pauta-alunos {
+  background-color: transparent !important;
+  border: none;
+}
+
+fieldset {
+  border: 1px solid #343a40 !important;
+  padding: 1.25rem 1.25rem !important;
+  margin-bottom: 0.625rem !important;
+}
+
+legend {
+  width: inherit !important;
+  font-size: 1rem !important;
+  padding: 0 0.4125rem !important;
+  margin: 0 !important;
+  font-weight: 500 !important;
+  letter-spacing: 1px !important;
+  color: #343a40 !important;
+}
+
+.btn-pattern {
+  min-width: 9rem !important;
+}
+
+.card-body .custom-control-label::before {
+  /*background-color:  !important;*/
+}
+
+.invisible {
+  display: none;
+}
+.visible {
+  display: block;
+}
+
+.text-color-campo-obrigatorio {
+  color: #ff8c00;
+}
+
+.campo-obrigatorio {
+  background-color: #d3d3d3;
+  -webkit-box-shadow: 0px 0px 2px 1px #ff8c00;
+          box-shadow: 0px 0px 2px 1px #ff8c00;
+}
+
+.campo-obrigatorio-modal {
+  background-color: #d3d3d3;
+  -webkit-box-shadow: 0px 0px 2px 1px #ff8c00;
+          box-shadow: 0px 0px 2px 1px #ff8c00;
+}
+
+select[readonly],
+input[readonly],
+fieldset#area-interesse-criar-contrato {
+  pointer-events: none !important;
+  touch-action: none !important;
+}
+
+.card-opcoes-contratuais {
+  border: 1px solid #ff8c00 !important;
+}
+
+.border-orange {
+  border: 1px solid #ff8c00 !important;
+}
+
+.box-shadown-bottom {
+  box-shadow: 0px 4px 2px 0px #ff8c00 !important;
+}
+
+#div-nome-consultar-pauta {
+  border: 1px solid #ff0026;
+}
+
+.overflow-x {
+    overflow: hidden !important;
+    overflow-x: auto !important;
+    scrollbar-width: thin;
+    scrollbar-color: #000;
+}
+
+.scrollbar::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: #f5f5f5;
+}
+
+.scrollbar::-webkit-scrollbar {
+    height: 6px;
+    background-color: #f5f5f5;
+}
+.scrollbar::-webkit-scrollbar-thumb {
+    background-color: #8b8f8c;
+    border-radius: 5px;
+}
+
+.div-logotipo {
+    min-height: 5rem;
+    position: relative;
+    max-width: 12rem;
+}
+
+.div-logotipo-login{
+    width:  70%;
+    height: 70%;
+}
+
+.div-logotipo img {
+    width: 80%;
+    height: 60%;
+}
+
+.mensagem-alerta{
+    color: #fff;
+    background-color: #dc3545;
+}
+
+.textarea-pauta-alunos-data{
+    width: 100%;
+    background-color: #282e35;
+    border: none;
+    outline: none;
+    color: #fff;
+}
+
+.area-anotacoes-aula{
+    width: 100%;
+    max-width: 100%;
+    background-color: #282e35;
+    border: none;
+    outline: none;
+    color: #fff;
+    min-height: 5rem;
+    padding: 2px;
+    overflow-y: auto;
+    resize: vertical;
+    word-break: break-word;
+}
+
+#tabela-lesson-given td:first-child{
+    width: 10%;
+}
+
+#tabela-lesson-given td:first-child + td + td {
+    width: 10%;
+}
+
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body-pagina-erro{
+    width: 100%;
+    height: 100vh;
+    background-color: #121315;
+    overflow: hidden;
+}
+
+.bg-pagina-erro{
+    width: 100%;
+    height: 100vh;
+}
+
+.bg-pagina-erro img{
+    width: 100%;
+    margin-top: -2rem;
+
+}
+
+.div-botao-voltar-pagina-erro{
+    position: relative;
+    top: 1rem;
+    left: 3rem;
+    height: 3.125rem;
+    width: 3.125rem;
+    border-radius: 50%;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition-duration: 0.2s;
+}
+
+.btn-voltar-pagina-erro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2.75rem;
+    width: 2.75rem;
+    border-radius: 50%;
+    color:  #fff;
+    background-color: #aa0529;
+    font-weight: bold;
+    font-size: 1rem;
+    text-decoration: none !important;
+    transition-duration: 0.2s;
+}
+
+.div-botao-voltar-pagina-erro:hover{
+    background-color: #fd7e14;
+}
+
+.btn-voltar-pagina-erro:hover{
+    text-decoration-color: #fff !important;
+    font-size: 1.2rem;
+}
+
+@media (max-width: 498px){
+    .bg-pagina-erro img{
+        margin-top: 0;
+    }
+
+    .div-botao-voltar-pagina-erro{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 1rem;
+        left: 1rem;
+        height: 2rem;
+        width: 2rem;
+    }
+
+    .btn-voltar-pagina-erro{
+        height: 1.9rem;
+        width: 1.91rem;
+        font-size: 0.75rem;
+    }
+}
+
+.padding-card-pattern{
+    padding-top: 10rem !important;
+}
+
+.carga-horaria-e-total-horas{
+    
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
+    
+}
+
+
+
+
+

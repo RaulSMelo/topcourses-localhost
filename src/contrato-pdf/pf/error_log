@@ -1,0 +1,28 @@
+[23-Jun-2021 12:43:46 America/Sao_Paulo] PHP Warning:  Array to string conversion in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-grupo-mensal.php on line 137
+[23-Jun-2021 13:46:12 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-individual-acima-de-20-horas.php on line 109
+[23-Jun-2021 13:46:12 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-individual-acima-de-20-horas.php on line 109
+[23-Jun-2021 13:46:12 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-individual-acima-de-20-horas.php on line 114
+[23-Jun-2021 13:46:12 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-individual-acima-de-20-horas.php on line 114
+[23-Jun-2021 13:46:12 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-individual-acima-de-20-horas.php on line 114
+[23-Jun-2021 13:46:12 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-individual-acima-de-20-horas.php on line 114
+[23-Jun-2021 13:46:12 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-individual-acima-de-20-horas.php on line 114
+[23-Jun-2021 13:46:12 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-individual-acima-de-20-horas.php on line 114
+[23-Jun-2021 13:46:12 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-individual-acima-de-20-horas.php on line 116
+[23-Jun-2021 13:46:12 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-individual-acima-de-20-horas.php on line 116
+[23-Jun-2021 13:46:12 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: Src\traits\UtilCTRL::dataFormatoBR(): Argument #1 ($data) must be of type string, null given, called in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-individual-acima-de-20-horas.php on line 116 and defined in /home/sistematopcourse/public_html/src/traits/UtilCTRL.php:66
+Stack trace:
+#0 /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-individual-acima-de-20-horas.php(116): Src\traits\UtilCTRL::dataFormatoBR(NULL)
+#1 {main}
+  thrown in /home/sistematopcourse/public_html/src/traits/UtilCTRL.php on line 66
+[13-Jul-2021 01:04:41 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-grupo-acima-de-20-horas.php on line 26
+[13-Jul-2021 01:04:41 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-grupo-acima-de-20-horas.php on line 26
+[13-Jul-2021 01:04:41 America/Sao_Paulo] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-grupo-acima-de-20-horas.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-grupo-acima-de-20-horas.php on line 26
+[13-Jul-2021 01:04:49 America/Sao_Paulo] PHP Warning:  Undefined array key 0 in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-grupo-acima-de-20-horas.php on line 26
+[13-Jul-2021 01:04:49 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-grupo-acima-de-20-horas.php on line 26
+[13-Jul-2021 01:04:49 America/Sao_Paulo] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-grupo-acima-de-20-horas.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/sistematopcourse/public_html/src/contrato-pdf/pf/pf-grupo-acima-de-20-horas.php on line 26
